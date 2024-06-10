@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/hellsinger1337/image-classification-node.js.git
-    cd image-classification-node.js
+    git clone https://github.com/hellsinger1337/image_classification_node.js.git
+    cd image_classification_node.js
     ```
 
 2. Установите зависимости:
